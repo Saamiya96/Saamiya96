@@ -25,3 +25,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saamiya96&show_icons=true&locale=en" alt="saamiya96" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saamiya96&" alt="saamiya96" /></p>
+
+
+## Github Stats  
+<img src="https://github-readme-stats.vercel.app/api?username=Saamiya96&show_icons=true&count_private=true&hide_border=true" align="center" />
+<br />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saamiya96&theme=cobalt)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saamiya96&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
