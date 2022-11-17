@@ -1,3 +1,6 @@
+<img align = "right" width="400" src="https://arieljakubowski.medium.com/i-passed-every-coding-challenge-at-flatiron-school-my-first-try-heres-how-23302a1bfe46">
+
+
 <h1 align="center">Hi 👋, I'm Saamiya Yousuf and I am a aspiring software developer!</h1>
 
 <br>
@@ -59,8 +62,15 @@
 ## Connect With Me!
 
 <div align="center">
-<a href="https://www.linkedin.com/in/saamiya-yousuf/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saamiya yousuf" height="30" width="40" /></a>
-<a href="https://www.instagram.com/codewithsaami/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codewithsaami" height="30" width="40" /></a>
+<a href="https://github.com/Saamiya96" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.instagram.com/codewithsaami/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/saamiya-yousuf/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 </div>
 
 <br>
