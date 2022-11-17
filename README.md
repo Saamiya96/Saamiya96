@@ -1,8 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saamiya Yousuf</h1>
-
-<br>
-
-<h3 align="center">A passionate aspiring software developer!</h3>
+<h1 align="center">Hi 👋, I'm Saamiya Yousuf and I am a aspiring software developer!</h1>
 
 <br>
 
@@ -16,9 +12,7 @@
 
 - ⚡ About me: I used to work as a radiographe and who has career switched and now has completed 13 weeks of fullstack developer training with [futureproof] in HTML, CSS, Node.js, SQL, NoSQL, Docker, React, Python, Django and Flask! 
 
-<br>
-
-<h3 align="left">Connect with me:</h3>
+## Connect With Me!
 <p align="left">
 <a href="https://www.linkedin.com/in/saamiya-yousuf/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saamiya yousuf" height="30" width="40" /></a>
 <a href="https://www.instagram.com/codewithsaami/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codewithsaami" height="30" width="40" /></a>
