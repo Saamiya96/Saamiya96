@@ -16,7 +16,7 @@
 
 <br>
 
-## My Skill Set
+## ⚡️ My Skill Set
 
 <table><tr><td valign="top" width="33%">
 
@@ -68,7 +68,7 @@
   <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 </a>
 <a href="mailto:saamiyayousuf@hotmail.co.uk">
- <img src="https://img.icons8.com/color/48/000000/outlook.png"/>
+ <img src="https://img.icons8.com/color/48/000000/gmail.png"/>
 </a>
 </div>
 
