@@ -58,17 +58,17 @@
 
 <br>
 
-## Connect With Me!
+## 🤝🏻 Connect With Me!
 
 <div align="center">
-<a href="https://github.com/Saamiya96" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://www.instagram.com/codewithsaami/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
+  <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
+</a>  
 <a href="https://www.linkedin.com/in/saamiya-yousuf/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+</a>
+<a href="mailto:saamiyayousuf@hotmail.co.uk">
+ <img src="https://img.icons8.com/color/48/000000/outlook.png"/>
 </a>
 </div>
 
