@@ -8,13 +8,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saamiya96&label=Profile%20views&color=0e75b6&style=flat" alt="saamiya96" /> </p>
 
-- 🔭 I’m currently working on **building my portfolio.**
+- 🔭 I’m currently working on **building my portfolio.** in React.
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java**.
 
 - 📫 How to reach me **saamiyayousuf@hotmail.co.uk**
 
-- ⚡ Fun fact **I used to work within healthcare before transitioning into a data related role.**
+- ⚡ About me: I used to work as a radiographe and who has career switched and now has completed 13 weeks of fullstack developer training with [futureproof] in HTML, CSS, Node.js, SQL, NoSQL, Docker, React, Python, Django and Flask! 
 
 <br>
 
@@ -30,9 +30,7 @@
 
 <table><tr><td valign="top" width="33%">
 
-
-
-### Frontend  
+### Frontend Developement
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /> 
@@ -63,6 +61,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="50"/>
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku"  height="50"/>
 </div>
 
 </td></tr></table>  
