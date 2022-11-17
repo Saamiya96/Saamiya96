@@ -1,7 +1,6 @@
-<div style="padding-top:108.571%;position:relative;"><iframe src="https://gifer.com/embed/3Ayb" width="100%" height="100%" style="position:absolute;top:0;left:0;" frameBorder="0" allowFullScreen></iframe></div>
-
-
 <h1 align="center">Hi 👋, I'm Saamiya Yousuf and I am a aspiring software developer!</h1>
+
+<img align="right"  src="https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif" />
 
 <br>
 
