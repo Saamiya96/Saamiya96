@@ -1,6 +1,7 @@
 <p align="center">
+  <img src="https://media.giphy.com/media/UtnxCnjWAOL1J6TNUR/giphy.gif">
   
-  [![MasterHead](https://media.giphy.com/media/UtnxCnjWAOL1J6TNUR/giphy.gif)] 
+   
   </p>
 
 
