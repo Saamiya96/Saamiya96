@@ -1,4 +1,8 @@
-[![MasterHead](https://media.giphy.com/media/UtnxCnjWAOL1J6TNUR/giphy.gif)]
+<p align="center">
+  
+  [![MasterHead](https://media.giphy.com/media/UtnxCnjWAOL1J6TNUR/giphy.gif)] 
+  </p>
+
 
 <h1 align="center">Hi 👋, I'm Saamiya Yousuf and I am a aspiring software engineer!</h1>
 
