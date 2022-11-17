@@ -4,19 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saamiya96&label=Profile%20views&color=0e75b6&style=flat" alt="saamiya96" /> </p>
 
-- 🔭 I’m currently working on **building my portfolio.** in React.
+- 🔭 I’m currently working on **building my portfolio** in React.
 
 - 🌱 I’m currently learning **Java**.
 
 - 📫 How to reach me **saamiyayousuf@hotmail.co.uk**
 
-- ⚡ About me: I used to work as a radiographe and who has career switched and now has completed 13 weeks of fullstack developer training with [futureproof] in HTML, CSS, Node.js, SQL, NoSQL, Docker, React, Python, Django and Flask! 
-
-## Connect With Me!
-<p align="left">
-<a href="https://www.linkedin.com/in/saamiya-yousuf/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saamiya yousuf" height="30" width="40" /></a>
-<a href="https://www.instagram.com/codewithsaami/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codewithsaami" height="30" width="40" /></a>
-</p>
+- ⚡ About me: I used to work as a radiographer and now has completed 13 weeks of fullstack developer training with [futureproof] in HTML, CSS, Node.js, SQL, NoSQL, Docker, React, Python, Django and Flask! 
 
 <br>
 
@@ -60,46 +54,14 @@
 
 </td></tr></table>  
 
+<br>
 
+## Connect With Me!
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<div align="center">
+<a href="https://www.linkedin.com/in/saamiya-yousuf/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saamiya yousuf" height="30" width="40" /></a>
+<a href="https://www.instagram.com/codewithsaami/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codewithsaami" height="30" width="40" /></a>
+</div>
 
 <br>
 
