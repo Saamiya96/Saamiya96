@@ -17,8 +17,6 @@
 
 - 🌱 I’m currently learning **Java**.
 
-- 📫 How to reach me **saamiyayousuf@hotmail.co.uk**
-
 - ⚡ About me: I used to work as a radiographer and now has completed 13 weeks of fullstack developer training with [futureproof] in HTML, CSS, Node.js, SQL, NoSQL, Docker, React, Python, Django and Flask! 
 
 <br>
