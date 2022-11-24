@@ -15,9 +15,9 @@
 
 - 🔭 I’m currently working on **building my portfolio** in React.
 
-- 🌱 I’m currently learning **Java**.
+- 🌱 I’m currently learning **JavaScript Algorithms and Data Structures Certification** from freeCodeCamp.
 
-- ⚡ About me: I used to work as a radiographer and now has completed 13 weeks of fullstack developer training with [futureproof] in HTML, CSS, Node.js, SQL, NoSQL, Docker, React, Python, Django and Flask! 
+- ⚡ About me: I used to work as a radiographer and now have completed a 13 weeks of fullstack developer training with [futureproof] in HTML, CSS, Node.js, SQL, NoSQL, Docker, React, Python, Django and Flask! 
 
 <br>
 
