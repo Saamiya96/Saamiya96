@@ -82,7 +82,7 @@
 <br>
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=Saamiya96&show_icons=true&count_private=true&hide_border=true&bg_color=00000000" align="center" />
+<img src="https://github-readme-stats.vercel.app/api?username=Saamiya96&show_icons=true&count_private=true&hide_border=true&theme=transparent&bg_color=00000000" align="center" />
 <br />
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saamiya96&theme=cobalt)](https://git.io/streak-stats)
