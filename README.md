@@ -11,13 +11,18 @@
 
 <br>
 
-- 🔭 I’m currently working on: **building my portfolio** in React.
+<h3>
+
+ - 🔭 I’m currently working on: **building my portfolio** in React.
 
 - 🌱 I’m currently learning: **JavaScript Algorithms and Data Structures Certification** from freeCodeCamp.
 
 - 🌟 My 2023 Goal: Get a **Software Engineering/Developer** job!
 
 - ⚡ **About me**: I used to work as a radiographer and now have completed a 13 weeks of fullstack developer training with [futureproof] in HTML, CSS, Node.js, SQL, NoSQL, Docker, React, Python, Django and Flask! 
+  
+</h3>
+
 
 <br>
 
