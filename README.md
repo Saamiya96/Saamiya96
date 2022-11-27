@@ -11,8 +11,6 @@
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saamiya96&label=Profile%20views&color=0e75b6&style=flat" alt="saamiya96" /> </p>
-
 - 🔭 I’m currently working on: **building my portfolio** in React.
 
 - 🌱 I’m currently learning: **JavaScript Algorithms and Data Structures Certification** from freeCodeCamp.
@@ -62,6 +60,7 @@
 </div>
 
 </td></tr></table>  
+
 
 <br>
 
