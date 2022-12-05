@@ -13,7 +13,7 @@
 
 <h3>
 
- - 🔭 I’m currently working on: **building my portfolio** in React.
+ - 🔭 I’m currently working on: **building my portfolio**.
 
 - 🌱 I’m currently learning: **JavaScript Algorithms and Data Structures Certification** from freeCodeCamp.
 
