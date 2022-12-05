@@ -4,8 +4,6 @@
 
 
 <h1 align="center">Hi, my name is Saamiya Yousuf and I am a aspiring software engineer!</h1>
-<!-- 
-<img align="right"  src="https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif" /> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saamiya96&label=Profile%20views&color=0e75b6&style=flat" alt="saamiya96" /> </p>
 
