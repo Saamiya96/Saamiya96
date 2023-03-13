@@ -13,11 +13,11 @@
 
  - 🔭 I’m currently working on: **building my portfolio**.
 
-- 🌱 I’m currently learning: **JRuby** from Exercism.
+- 🌱 I’m currently learning: **Ruby** from Exercism.
 
 - 🌟 My 2023 Goal: Become an **Instructor and Mentor** for aspiring students who want to get into tech!
 
-- ⚡ **About me**: I used to work as a radiographer and now undertaking a Software Developer Apprenticeship at an energy company! I will undergo my trainig at [Makers Academy]! 
+- ⚡ About me: I used to work as a radiographer and now undertaking a Software Developer Apprenticeship at an energy company! I will undergo my trainig at [Makers Academy]! 
   
 </h3>
 
@@ -83,10 +83,10 @@
 
 <br>
 
-## Github Stats  
+<!-- ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=Saamiya96&show_icons=true&count_private=true&theme=cobalt" align="center" />
 <br />
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saamiya96&theme=cobalt)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saamiya96&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saamiya96&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) -->
