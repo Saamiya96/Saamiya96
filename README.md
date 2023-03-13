@@ -11,13 +11,11 @@
 
 <h3>
 
- - 🔭 I’m currently working on: **building my portfolio**.
+- 🌱 I’m currently learning Ruby, Jacascript and Python from Exercism.
 
-- 🌱 I’m currently learning: **Ruby** from Exercism.
+- 🌟 My 2023 Goal is to become an instructor andmMentor for aspiring students who want to get into tech!
 
-- 🌟 My 2023 Goal: Become an **Instructor and Mentor** for aspiring students who want to get into tech!
-
-- ⚡ About me: I used to work as a radiographer and now undertaking a Software Developer Apprenticeship at an energy company! I will undergo my trainig at [Makers Academy]! 
+- ⚡ About me: I used to work as a radiographer and now undertaking a Software Developer Apprenticeship at an energy company! I will undergo my trainig at [Makers Academy](https://github.com/makersacademy)! 
   
 </h3>
 
