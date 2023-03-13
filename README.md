@@ -9,7 +9,7 @@
 
 <br>
 
-<h3>
+<h4>
 
 - 🌱 I’m currently learning Ruby, Jacascript and Python from Exercism.
 
@@ -17,8 +17,7 @@
 
 - ⚡ About me: I used to work as a radiographer and now undertaking a Software Developer Apprenticeship at an energy company! I will undergo my trainig at [Makers Academy](https://github.com/makersacademy)! 
   
-</h3>
-
+</h4>
 
 <br>
 
@@ -61,7 +60,6 @@
 </div>
 
 </td></tr></table>  
-
 
 <br>
 
