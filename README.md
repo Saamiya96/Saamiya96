@@ -11,9 +11,9 @@
 
 <h4>
 
-- 🌱 I’m currently learning Ruby, Jacascript and Python from Exercism.
+- 🌱 I’m currently learning Python and Jacascript.
 
-- 🌟 My 2023 Goal is to become an instructor andmMentor for aspiring students who want to get into tech!
+- 🌟 My 2023 Goal is to become an instructor and Mentor for aspiring students who want to get into tech!
 
 - ⚡ About me: I used to work as a radiographer and now undertaking a Software Developer Apprenticeship at an energy company! I will undergo my trainig at [Makers Academy](https://github.com/makersacademy)! 
   
