@@ -3,7 +3,7 @@
   </p>
 
 
-<h1 align="center">Hi, my name is Saamiya Yousuf and I am a Software Developer Apprentice!</h1>
+<h1 align="center">Hi, my name is Saamiya Yousuf and I am a Software Developer working at OVO Energy!</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saamiya96&label=Profile%20views&color=0e75b6&style=flat" alt="saamiya96" /> </p>
 
@@ -11,11 +11,11 @@
 
 <h4>
 
-- 🌱 I’m currently learning Python and Jacascript.
+- 🌱 I’m currently learning Jacascript, Typescript, React and Python.
 
-- 🌟 My 2023 Goal is to become an instructor and Mentor for aspiring students who want to get into tech!
+- 🌟 My 2025 Goal to continue my professional development and learning.
 
-- ⚡ About me: I used to work as a radiographer and now undertaking a Software Developer Apprenticeship at an energy company! I will undergo my trainig at [Makers Academy](https://github.com/makersacademy)! 
+- ⚡ About me: I used to work as a radiographer and now undertaking a Software Developer Apprenticeship at an energy company! I underwent my trainig at [Makers Academy](https://github.com/makersacademy) and now work as a Software Engineer! 
   
 </h4>
 
