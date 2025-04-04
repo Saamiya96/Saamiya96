@@ -66,14 +66,8 @@
 ## 🤝🏻 Connect With Me!
 
 <div align="center">
-<a href="https://www.instagram.com/codewithsaami/" target="_blank">
-  <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
-</a>  
 <a href="https://www.linkedin.com/in/saamiya-yousuf/" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
-</a>
-<a href="mailto:saamiyayousuf@hotmail.co.uk" target="_blank">
- <img src="https://img.icons8.com/color/48/000000/gmail.png"/>
 </a>
 </div>
 
