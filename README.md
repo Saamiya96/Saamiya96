@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning Jacascript, Typescript, React and Python.
 
-- 🌟 My 2025 Goal to continue my professional development and learning.
+- 🌟 My 2026 Goal to continue my professional development and learning.
 
 - ⚡ About me: I used to work as a radiographer and now undertaking a Software Developer Apprenticeship at an energy company! I underwent my trainig at [Makers Academy](https://github.com/makersacademy) and now work as a Software Engineer! 
   
